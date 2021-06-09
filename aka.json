@@ -37,6 +37,9 @@
             "苹果", "11", "12", "XS", "xs", "XR", "7P/8P", "iPhone", "IPhone", "单支架"
         ],
         "extract_huawe_stall": "太平洋&1楼地市",
+        "sort_stall": [
+            "康乐", "通信", "经济", "汇通", "太平洋", "设置"
+        ],
         "stall_filter": [
             "定"
         ],
