@@ -1,0 +1,280 @@
+{
+    "time": {
+        "rest": "20210620",
+        "limit": "20211010"
+    },
+    "file": {
+        "init": "初始.xlsx",
+        "sort_jia": "排序jia.xlsx",
+        "sort_chan": "排序chan.xlsx",
+        "split_jia": "jia.xlsx",
+        "split_chan": "chan.xlsx",
+        "before_billing": "发单前.xlsx",
+        "after_billing": "发单后.xlsx",
+        "print_typesetting": "打印排版.xlsx"
+    },
+    "print_column_quantity": 55,
+    "columns": {
+        "stall": "档口",
+        "name": "单品名称",
+        "quantity": "单品销售数量",
+        "color": "颜色",
+        "sort_name": "排序名"
+    },
+    "stall": {
+        "康乐北区&4楼加满": {
+            "limit": 6,
+            "merge":[
+                "红爱心", "腮红"
+            ]
+        }
+    },
+    "keys": {
+        "extract_huawei_stall": [
+            "驰金", "顺发"
+        ],
+        "extract_huawei_filter": [
+            "苹果", "11", "12", "XS", "xs", "XR", "7P/8P", "iPhone", "IPhone", "单支架"
+        ],
+        "extract_huawe_stall": "太平洋&1楼地市",
+        "stall_filter": [
+            "定"
+        ],
+        "name_filter": [
+            "备注"
+        ],
+        "models":[
+            " ",
+        "7/8", "iPhone", "IPhone", "7P/8Plus", "x/xs", "X/XS", "XR", "XSMAX",
+        "11ProMax", "11Promax", "11pro", "",
+        "苹果11", "11Pro", "12ProMax", 
+        "ProMax", "Pro", "MAX", "5.8寸","max", "6.5寸",
+        "12Mini", "12mini", "苹果12", "12/12Pro","Iphone", "IPhong",
+        "iphone",
+        "12pro", "12", "苹果", "6.1寸", "Airpods1/2代", "Airpods3代", "Airpord1/2代",
+        "Airpord3代", "Airpod1/2", "Airpod3", "Aipords12代", "Airpods12",
+        "Airpords12代", "Airpords3代", "airpods12","airpods3",
+        "airpods12代", "airpods3代", "airpods12代","airpods12代",
+        "华为", "P30pro", "P30Pro", "p30pro", "p30Pro", "p30", "P30",
+        "P40Pro", "P40pro", "p40", "P40",
+        "Mate30Pro", "mate30Pro", "Mate30pro", "mate30pro",
+        "Mate30", "mate30",
+        "Mate40Pro", "mate40Pro", "Mate40pro", "mate40pro",
+        "Mate40", "mate40",
+        "Nova5", "nova5",
+        "Nova6", "nova6",
+        "Nova7Pro", "Nova7pro", "nova7Pro", "nova7pro",
+        "Nova7", "nova7",
+        "Nova8", "nova8", "/", "airpods12代",
+        "-", "+"
+        ],
+        "components": [
+            {
+                "name": "呆萌黄花朵支架",
+                "keys": ["呆萌黄"]
+            },
+            {
+                "name": "红背包支架",
+                "keys": ["红背包"]
+            },
+            {
+                "name": "蓝绿圆形贝母支架",
+                "keys": ["蓝绿圆形贝母", "金边绿贝母"]
+            },
+            {
+                "name": "绿色鳄鱼支架",
+                "keys": ["绿色鳄鱼"]
+            },
+            {
+                "name": "考拉挂件",
+                "keys": ["考拉挂件"]
+            },
+            {
+                "name": "樱桃泰迪支架",
+                "keys": ["樱桃泰迪"]
+            },
+            {
+                "name": "冰淇淋恐龙支架",
+                "keys": ["冰淇淋恐龙"]
+            },
+            {
+                "name": "大眼睛配件",
+                "keys":["红鼻子标签", "大眼睛", "光面蓝色"]
+            },
+            {
+                "name": "搞怪玩偶挂件",
+                "keys":["搞怪玩偶"]
+            },
+            {
+                "name": "黑底be支架",
+                "keys":["黑底be", "玫红小笑脸"]
+            },
+            {
+                "name": "抿嘴小熊支架",
+                "keys":["抿嘴小熊"]
+            },
+            {
+                "name": "透明绿色水晶支架",
+                "keys":["透明绿色水晶", "透明绿色"]
+            },
+            {
+                "name": "毛绒鼻环支架",
+                "keys":["鼻环"]
+            },
+            {
+                "name": "贝壳纹支架",
+                "keys":["贝壳纹支架"]
+            },
+            {
+                "name": "2只小熊支架",
+                "keys": ["2只小熊支架"]
+            },
+            {
+                "name": "红裤子支架",
+                "keys":["红裤子"]
+            },
+            {
+                "name": "蓝裤子支架",
+                "keys":["蓝裤子"]
+            },
+            {
+                "name": "蛋糕小熊支架",
+                "keys":["蛋糕小熊"]
+            },
+            {
+                "name": "绿色鳄鱼支架",
+                "keys": ["绿色鳄鱼"]
+            },
+            {
+                "name": "渐变绿色圆形支架",
+                "keys":["渐变绿色圆形"]
+            },
+            {
+                "name": "叶子橙子支架",
+                "keys":["叶子橙子"]
+            },
+            {
+                "name": "云朵支架",
+                "keys":["云朵支架"]
+            },
+            {
+                "name": "黑白小熊支架",
+                "keys":["黑白小熊"]
+            },
+            {
+                "name": "粉色花蕊支架",
+                "keys":["粉色花蕊"]
+            },
+            {
+                "name": "粉卡比支架",
+                "keys":["粉卡比"]
+            },
+            {
+                "name": "花朵蝴蝶支架",
+                "keys":["花朵蝴蝶"]
+            },
+            {
+                "name": "镜面字母hey支架",
+                "keys":["镜面字母hey"]
+            },
+            {
+                "name": "银色方形支架",
+                "keys":["银色方形"]
+            },
+            {
+                "name": "热狗包",
+                "keys":["热狗包"]
+            },
+            {
+                "name": "黄色笑脸支架",
+                "keys":["黄色笑脸"]
+            },
+            {
+                "name": "走路音乐耳机套挂件",
+                "keys":["走路音乐"]
+            },
+            {
+                "name": "黑底字母耳机套挂件",
+                "keys":["黑底字母设计"]
+            },
+            {
+                "name": "西红柿支架",
+                "keys":["西红柿支架", "番茄支架"]
+            },
+            {
+                "name": "金边橘色贝母圆形支架",
+                "keys":["金边橘色贝母圆形"]
+            },
+            {
+                "name": "爱心镭射粉支架",
+                "keys":["支架镭射粉"]
+            },
+            {
+                "name": "白色立体花朵支架",
+                "keys":["白色立体花朵", "大珍珠链条"]
+            },
+            {
+                "name": "银色挂链",
+                "keys":["银色挂链"]
+            },
+            {
+                "name": "黑底字母8支架",
+                "keys":["黑底字母8"]
+            },
+            {
+                "name": "流沙笑脸支架",
+                "keys":["流沙笑脸"]
+            },
+            {
+                "name": "彩绘紫色圆形支架",
+                "keys":["Bonjour"]
+            },
+            {
+                "name": "水晶小熊挂件",
+                "keys":["HappyDay"]
+            },
+            {
+                "name": "柠檬支架",
+                "keys":["柠檬"]
+            },
+            {
+                "name": "抿嘴小熊支架",
+                "keys":["抿嘴小熊"]
+            },
+            {
+                "name": "透明蓝色水晶支架",
+                "keys":["透明蓝色水晶"]
+            },
+            {
+                "name": "滴胶透明红爱心熊支架",
+                "keys":["滴胶透明红爱心熊"]
+            },
+            {
+                "name": "铜锣烧支架",
+                "keys":["铜锣烧"]
+            },
+            {
+                "name": "可爱方糖支架",
+                "keys":["可爱方糖"]
+            },
+            {
+                "name": "金边紫色爱心",
+                "keys":["金边紫色爱心"]
+            },
+            {
+                "name": "绿色贝母爱心支架",
+                "keys":["绿色贝母爱心"]
+            },
+            {
+                "name": "金边白色爱心支架",
+                "keys":["金边白色爱心"]
+            },
+            {
+                "name": "滴胶金边黑底爱心支架",
+                "keys":["滴胶金边黑底爱心"]
+            }
+    
+        ]
+    }
+
+}
