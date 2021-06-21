@@ -1,0 +1,257 @@
+{
+    "time": {
+        "rest": "20200101",
+        "limit": "20211010"
+    },
+    "file": {
+        "init": "初始.xlsx",
+        "sort_jia": "排序jia.xlsx",
+        "sort_chan": "排序chan.xlsx",
+        "before_billing": "发单前.xlsx",
+        "after_billing": "发单后.xlsx",
+        "print_typesetting": "打印排版.xlsx"
+    },
+    "print_column_quantity": 55,
+    "columns": {
+        "stall": "档口",
+        "name": "单品小熊数量",
+        "quantity": "单品销售数量",
+        "color": "颜色",
+        "sort_name": "排序名",
+        "index": "序号",
+        "model": "型号",
+        "code": "编码"
+    },
+    "sort_stall":[
+        "康乐",
+        "通信",
+        "经济",
+        "汇通",
+        "太平洋",
+        "设置"
+    ],
+    "extract_huawei": {
+        "stalls": "驰金|顺发",
+        "selects": "P30|p30|P40|p40|Mate|mate|Nova|nova",
+        "target": "太平洋&1楼迪美邦"
+    },
+    "filter_stalls": "定",
+    "filter_name": "备注|前膜",
+    "model_filters": [
+        " ",
+        "7/8",
+        "iPhone",
+        "IPhone",
+        "7P/8Plus",
+        "7P/8P",
+        "x/xs",
+        "X/XS",
+        "XR",
+        "XSMAX",
+        "11ProMax",
+        "11Promax",
+        "11pro",
+        "",
+        "苹果11",
+        "11Pro",
+        "12ProMax",
+        "ProMax",
+        "Pro",
+        "MAX",
+        "5.8寸",
+        "max",
+        "6.5寸",
+        "12Mini",
+        "12mini",
+        "苹果12",
+        "12/12Pro",
+        "Iphone",
+        "IPhong",
+        "iphone",
+        "12pro",
+        "12",
+        "苹果",
+        "6.1寸",
+        "Airpods1/2代",
+        "Airpods3代",
+        "Airpord1/2代",
+        "Airpord3代",
+        "Airpod1/2",
+        "Airpod3",
+        "Aipords12代",
+        "Airpods12",
+        "Airpords12代",
+        "Airpords3代",
+        "airpods12",
+        "airpods3",
+        "airpods12代",
+        "airpods3代",
+        "airpods12代",
+        "airpods12代",
+        "华为",
+        "P30pro",
+        "P30Pro",
+        "p30pro",
+        "p30Pro",
+        "p30",
+        "P30",
+        "P40Pro",
+        "P40pro",
+        "p40",
+        "P40",
+        "Mate30Pro",
+        "mate30Pro",
+        "Mate30pro",
+        "mate30pro",
+        "Mate30",
+        "mate30",
+        "Mate40Pro",
+        "mate40Pro",
+        "Mate40pro",
+        "mate40pro",
+        "Mate40",
+        "mate40",
+        "Nova5/5Pro",
+        "Nova5/5pro",
+        "nova5/5Pro",
+        "nova5/5pro",
+        "Nova5",
+        "nova5",
+        "Nova6",
+        "nova6",
+        "Nova7Pro",
+        "Nova7pro",
+        "nova7Pro",
+        "nova7pro",
+        "Nova7",
+        "nova7",
+        "Nova8",
+        "nova8",
+        "/",
+        "airpods12代",
+        "Airpords12代",
+        "-",
+        "+"
+    ],
+    "models": {
+        "iPhone7/8": {
+          "contain": "7/8",
+          "code": "11"
+        },
+        "7P/8Plus": {
+          "contain": "7P/8Plus|7P/8P|7p/8p",
+          "code": "12"
+        },
+        "X/XS": {
+          "contain": "x/xs|X/XS",
+          "code": "13"
+        },
+        "XR": {
+          "contain": "XR|xr",
+          "code": "14"
+        },
+        "XSMAX": {
+          "contain": "XSMAX|XS MAX|xsmax|xs max",
+          "code": "15"
+        },
+        "苹果11": {
+          "contain": "苹果11",
+          "exclude": "pro|Pro",
+          "code": "16"
+        },
+        "11pro": {
+          "contain": "11pro|11Pro",
+          "exclude": "max|Max",
+          "code": "17"
+        },
+        "11ProMax": {
+          "contain": "11ProMax|11Promax|11promax|11Pro Max|11ProMAX",
+          "code": "18"
+        },
+        "12mini": {
+          "contain": "12mini|12Mini|12迷你",
+          "code": "19"
+        },
+        "苹果12": {
+          "contain": "苹果12",
+          "exclude": "pro|Pro",
+          "code": "20"
+        },
+        "12pro": {
+          "contain": "12pro|12Pro",
+          "exclude": "max|Max",
+          "code": "21"
+        },
+        "12ProMax": {
+          "contain": "12ProMax|12promax|12Promax|12Pro Max|12ProMAX",
+          "code": "22"
+        },
+        "P30": {
+          "contain": "p30|P30",
+          "exclude": "pro|Pro",
+          "code": "51"
+        },
+        "P30Pro": {
+          "contain": "P30Pro|P30pro|p30Pro|p30pro",
+          "code": "52"
+        },
+        "P40": {
+          "contain": "p40|P40",
+          "exclude": "pro|Pro",
+          "code": "53"
+        },
+        "P40Pro": {
+          "contain": "P40Pro|P40pro|p40Pro|p40pro",
+          "code": "54"
+        },
+        "Mate30": {
+          "contain": "Mate30|mate30",
+          "exclude": "pro|Pro",
+          "code": "60"
+        },
+        "Mate30Pro": {
+          "contain": "Mate30Pro|Mate30pro|mate30Pro|mate30pro",
+          "code": "61"
+        },
+        "Mate40": {
+          "contain": "mate40|Mate40",
+          "exclude": "pro|Pro",
+          "code": "62"
+        },
+        "Mate40Pro": {
+          "contain": "Mate40Pro|Mate40pro|mate40Pro|mate40pro",
+          "code": "63"
+        },
+        "Nova5/5G": {
+          "contain": "nova5|Nova5",
+          "code": "70"
+        },
+        "Nova6": {
+          "contain": "nova6|Nova6",
+          "code": "71"
+        },
+        "Nova7": {
+          "contain": "nova7|Nova7",
+          "exclude": "pro|Pro",
+          "code": "72"
+        },
+        "Nova7Pro": {
+          "contain": "Nova7Pro|Nova7pro|nova7pro|nova7Pro",
+          "code": "73"
+        },
+        "Nova8": {
+          "contain": "nova8/Nova8",
+          "exclude": "pro|Pro",
+          "code": "74"
+        },
+        "AirPods 1/2代": {
+          "contain": "2代|1/2",
+          "code": "81"
+        },
+        "AirPods 3代": {
+          "contain": "3代",
+          "code": "82"
+        }
+      }
+
+}
