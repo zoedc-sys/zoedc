@@ -231,7 +231,7 @@
           "code": "71"
         },
         "Nova7": {
-          "contain": "nova7|Nova7",
+          "contain": "nova7|Nova7|Nove",
           "exclude": "pro|Pro",
           "code": "72"
         },
@@ -240,7 +240,7 @@
           "code": "73"
         },
         "Nova8": {
-          "contain": "nova8/Nova8",
+          "contain": "nova8|Nova8",
           "exclude": "pro|Pro",
           "code": "74"
         },
