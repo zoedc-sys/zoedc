@@ -14,7 +14,7 @@
     "print_column_quantity": 55,
     "columns": {
         "stall": "档口",
-        "name": "单品小熊数量",
+        "name": "单品名称",
         "quantity": "单品销售数量",
         "color": "颜色",
         "sort_name": "排序名",
