@@ -179,7 +179,7 @@
         },
         "12pro": {
           "contain": "12pro|12Pro",
-          "exclude": "max|Max",
+          "exclude": "max|Max|MAX",
           "code": "21"
         },
         "12ProMax": {
