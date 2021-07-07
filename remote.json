@@ -3,6 +3,10 @@
         "rest": "20200101",
         "limit": "20211010"
     },
+    "folder": {
+        "data": "备货单",
+        "config": "配置"
+    },
     "file": {
         "init": "初始.xlsx",
         "sort_jia": "排序jia.xlsx",
