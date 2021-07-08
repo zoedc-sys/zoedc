@@ -8,6 +8,11 @@
         "config": "配置\\"
     },
     "file": {
+        "independents": "independents.xlsx",
+        "merges": "merges.xlsx",
+        "groups": "groups.xlsx",
+        "stalls": "stalls.xlsx",
+        "components": "components.xlsx",
         "init": "初始.xlsx",
         "sort_jia": "排序jia.xlsx",
         "sort_chan": "排序chan.xlsx",
