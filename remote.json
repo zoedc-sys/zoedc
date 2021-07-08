@@ -24,7 +24,10 @@
         "sort_name": "排序名",
         "index": "序号",
         "model": "型号",
-        "code": "编码"
+        "code": "编码",
+        "key": "关键字",
+        "new_name": "新名称",
+        "target_stall": "目标档口"
     },
     "sort_stall":[
         "康乐",
