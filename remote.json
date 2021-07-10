@@ -166,7 +166,7 @@
           "contain": "XSMAX|XS MAX|xsmax|xs max",
           "code": "15"
         },
-        "苹果11": {
+        "果11": {
           "contain": "苹果11",
           "exclude": "pro|Pro",
           "code": "16"
@@ -184,7 +184,7 @@
           "contain": "12mini|12Mini|12迷你",
           "code": "19"
         },
-        "苹果12": {
+        "果12": {
           "contain": "苹果12",
           "exclude": "pro|Pro",
           "code": "20"
