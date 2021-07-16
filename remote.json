@@ -187,7 +187,7 @@
         "苹果12": {
           "contain": "苹果12",
           "exclude": "pro|Pro",
-          "code": "20"
+          "code": 20
         },
         "12pro": {
           "contain": "12pro|12Pro",
@@ -205,7 +205,7 @@
         },
         "P30Pro": {
           "contain": "P30Pro|P30pro|p30Pro|p30pro",
-          "code": "52"
+          "code": 52
         },
         "P40": {
           "contain": "p40|P40",
@@ -219,7 +219,7 @@
         "Mate30": {
           "contain": "Mate30|mate30",
           "exclude": "pro|Pro",
-          "code": "60"
+          "code": 60
         },
         "Mate30Pro": {
           "contain": "Mate30Pro|Mate30pro|mate30Pro|mate30pro",
@@ -232,7 +232,7 @@
         },
         "Mate40Pro": {
           "contain": "Mate40Pro|Mate40pro|mate40Pro|mate40pro",
-          "code": "63"
+          "code": 63
         },
         "Nova5/5G": {
           "contain": "nova5|Nova5",
@@ -240,7 +240,7 @@
         },
         "Nova6": {
           "contain": "nova6|Nova6",
-          "code": "71"
+          "code": 71
         },
         "Nova7": {
           "contain": "nova7|Nova7|Nove",
