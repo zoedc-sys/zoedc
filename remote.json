@@ -167,7 +167,7 @@
           "code": 15
         },
         "苹果11": {
-          "contain": "苹果11",
+          "contain": "果11",
           "exclude": "pro|Pro",
           "code": 16
         },
@@ -185,7 +185,7 @@
           "code": 19
         },
         "苹果12": {
-          "contain": "苹果12",
+          "contain": "果12",
           "exclude": "pro|Pro",
           "code": 20
         },
@@ -255,6 +255,10 @@
           "contain": "nova8|Nova8",
           "exclude": "pro|Pro",
           "code": 74
+        },
+        "Nova8Pro": {
+            "contain": "nova8pro|Nova8pro|nova8Pro|Nova8Pro",
+            "code": 75
         },
         "AirPods 1/2代": {
           "contain": "2代|1/2",
