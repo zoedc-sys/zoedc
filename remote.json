@@ -7,6 +7,27 @@
         "data": "备货单\\",
         "config": "配置\\"
     },
+    "reg": {
+        "xls": ".*xls$",
+        "copy": ".*副本*"
+    },
+    "msg": {
+        "hello_chan": "欢迎使用",
+        "start_merge": "开始合并",
+        "get_merge_files": "获取需要合并的文件",
+        "merge_same_type": "合并相同名称",
+        "identify_the_model": "识别型号",
+        "start_analysis": "开始分析",
+        "identify_the_sort_name": "识别排序名",
+        "start_output": "开始输出",
+        "end_merge": "结束合并",
+        "start_sort": "开始排序",
+        "end_sort": "排序完成",
+        "start_rebuild": "开始重建",
+        "end_rebuild": "重建完成",
+        "start_composing": "开始排版",
+        "end_composing": "排版完成"
+    },
     "file": {
         "independents": "independents.xlsx",
         "merges": "merges.xlsx",
@@ -49,6 +70,9 @@
     },
     "filter_stalls": "定",
     "filter_name": "备注|前膜",
+    "word_filters": [
+        "苹果", "华为", "寸"
+    ],
     "model_filters": [
         " ",
         "7/8",
