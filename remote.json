@@ -71,7 +71,7 @@
     "filter_stalls": "定",
     "filter_name": "备注|前膜",
     "word_filters": [
-        "苹果", "华为", "寸"
+        "苹果", "华为", "寸", "代"
     ],
     "model_filters": [
         " ",
