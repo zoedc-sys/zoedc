@@ -16,14 +16,22 @@
         "start_merge": "开始合并",
         "get_merge_files": "获取需要合并的文件",
         "get_copy_files": "获取副本文件列表",
-        "discern_models": "识别型号",
+        "filter_ding": "过滤掉定制档口数据",
+        "filter_bei": "过滤掉未备注数据",
         "merge_same_type": "合并相同名称",
         "identify_the_model": "识别型号",
         "start_analysis": "开始分析",
+        "end_analysis": "结束分析",
         "identify_the_sort_name": "识别排序名",
-        "start_output": "开始输出",
+        "identify_the_sort_name_done": "识别完成",
+        "get_stall_list": "获取档口列表",
+        "get_stall_list_done": "获取档口列表完成",
+        "start_output": "开始获取输出数据",
+        "end_output": "获取输出数据完成",
         "end_merge": "结束合并",
         "start_sort": "开始排序",
+        "get_duli": "获取独立",
+        "get_huawei": "获取华为",
         "end_sort": "排序完成",
         "start_rebuild": "开始重建",
         "end_rebuild": "重建完成",
@@ -73,7 +81,7 @@
     "filter_stalls": "定",
     "filter_name": "备注|前膜",
     "word_filters": [
-        "苹果", "华为", "寸", "代"
+        "苹果", "华为", "寸"
     ],
     "model_filters": [
         " ",
