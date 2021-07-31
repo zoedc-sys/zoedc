@@ -15,6 +15,8 @@
         "hello_chan": "欢迎使用",
         "start_merge": "开始合并",
         "get_merge_files": "获取需要合并的文件",
+        "get_copy_files": "获取副本文件列表",
+        "discern_models": "识别型号",
         "merge_same_type": "合并相同名称",
         "identify_the_model": "识别型号",
         "start_analysis": "开始分析",
