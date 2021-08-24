@@ -250,6 +250,15 @@
           "contain": "P40Pro|P40pro|p40Pro|p40pro",
           "code": 54
         },
+        "P50": {
+            "contain": "p50|P50",
+            "exclude": "pro|Pro",
+            "code": 55
+        },
+        "P50Pro": {
+            "contain": "P50Pro|P50pro|p50Pro|p50pro",
+            "code": 56
+        }
         "Mate30": {
           "contain": "Mate30|mate30",
           "exclude": "pro|Pro",
