@@ -258,7 +258,7 @@
         "P50Pro": {
             "contain": "P50Pro|P50pro|p50Pro|p50pro",
             "code": 56
-        }
+        },
         "Mate30": {
           "contain": "Mate30|mate30",
           "exclude": "pro|Pro",
