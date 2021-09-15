@@ -225,12 +225,25 @@
         },
         "12pro": {
           "contain": "12pro|12Pro",
-          "exclude": "max|Max|MAX",
+          "exclude": "max|Max|MAX|Ma",
           "code": 21
         },
         "12ProMax": {
-          "contain": "12ProMax|12promax|12Promax|12Pro Max|12ProMAX",
+          "contain": "12ProMax|12promax|12Promax|12Pro Max|12ProMAX|12ProMa",
           "code": 22
+        },
+        "13": {
+            "contain": "果13",
+            "code": 23
+        },
+        "13Pro": {
+            "contain": "13Pro",
+            "exclude": "max|Max|MAX",
+            "code":24
+        },
+        "13ProMax": {
+            "contain": "13ProMax|13promax|13Promax|13Pro Max|13ProMAX|13ProMa:",
+            "code": 25
         },
         "P30": {
           "contain": "p30|P30",
@@ -286,21 +299,21 @@
           "code": 71
         },
         "Nova7": {
-          "contain": "nova7|Nova7|Nove",
+          "contain": "nova7|Nova7|Nove|NOVA7",
           "exclude": "pro|Pro",
           "code": 72
         },
         "Nova7Pro": {
-          "contain": "Nova7Pro|Nova7pro|nova7pro|nova7Pro|Nove7Pro|Nove7pro|nove7Pro|nove7pro",
+          "contain": "Nova7Pro|Nova7pro|nova7pro|nova7Pro|Nove7Pro|Nove7pro|nove7Pro|nove7pro|NOVA7Pro",
           "code": 73
         },
         "Nova8": {
-          "contain": "nova8|Nova8",
+          "contain": "nova8|Nova8|NOVA8",
           "exclude": "pro|Pro",
           "code": 74
         },
         "Nova8Pro": {
-            "contain": "nova8pro|Nova8pro|nova8Pro|Nova8Pro",
+            "contain": "nova8pro|Nova8pro|nova8Pro|Nova8Pro|NOVA8Pro",
             "code": 75
         },
         "AirPods 1/2代": {
