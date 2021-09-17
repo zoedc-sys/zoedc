@@ -237,9 +237,9 @@
             "code": 23
         },
         "13Pro": {
-            "contain": "13Pro",
+            "contain": "13Pro|13pro",
             "exclude": "max|Max|MAX",
-            "code":24
+            "code": 24
         },
         "13ProMax": {
             "contain": "13ProMax|13promax|13Promax|13Pro Max|13ProMAX|13ProMa:",
